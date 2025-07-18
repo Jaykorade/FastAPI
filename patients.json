@@ -1,0 +1,20 @@
+
+  { "1":
+  {
+    "name": "John Doe",
+    "age": 45,
+    "gender": "Male",
+    "diagnosis": "Diabetes",
+    "contact": "9876543210",
+    "admission_date": "2024-06-01",
+    "medical_history": ["High Cholesterol", "Obesity"]
+  },
+  "2":{
+    "name": "Jane Smith",
+    "age": 52,
+    "gender": "Female",
+    "diagnosis": "Hypertension",
+    "contact": "9123456780",
+    "admission_date": "2024-05-15",
+    "medical_history": ["Thyroid", "Asthma"] }
+  }
